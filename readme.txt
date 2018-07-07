@@ -30,3 +30,14 @@
 七、添加远程仓库
   13、git remote add origin git@github.com:Your git Account /project.git(本地仓库关联到远程仓库)
   14 、git push -u origin master （本地仓库推送到远程仓库）
+
+八、从远程库克隆
+   15、git clone git@github.com:Your git Account/project.git（克隆远程仓库到本地仓库）
+
+九 、创建与合并分支
+   16、 查看分支：git branch
+   17、 创建分支：git branch <name>
+    18、切换分支：git checkout <name>
+    19、创建+切换分支：git checkout -b <name>
+    20、 合并某分支到当前分支：git merge <name>
+    21、 删除分支：git branch -d <name>
