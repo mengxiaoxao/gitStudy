@@ -3,7 +3,3 @@ step 2 Git is a version control system.
 step 3 Git is free software distributed under the GPL.
 step 4 Git is free software distributed under 
 step 5 Git is free software 
-
-
-1¡¢I am Chinese.
-2 I love China.
